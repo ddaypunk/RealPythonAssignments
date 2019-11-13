@@ -1,0 +1,453 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"request"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"PRO",
+				"PROJECT_ROOT	statement"
+			],
+			[
+				"pa",
+				"path	module"
+			],
+			[
+				"TEMPL",
+				"TEMPLATE_DIRS"
+			],
+			[
+				"hello",
+				"hello_world"
+			],
+			[
+				"True",
+				"True	class"
+			],
+			[
+				"fib",
+				"fib_list	statement"
+			],
+			[
+				"app",
+				"append	function"
+			],
+			[
+				"sum",
+				"sum_of_possibles	statement"
+			],
+			[
+				"list",
+				"list_of_possibles	statement"
+			],
+			[
+				"in",
+				"inventory	statement"
+			],
+			[
+				"get",
+				"get_name"
+			],
+			[
+				"scene",
+				"scene_map	statement"
+			],
+			[
+				"sc",
+				"scene_map	statement"
+			],
+			[
+				"scne",
+				"scene_map"
+			],
+			[
+				"e",
+				"exit	function"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"c",
+				"choices	statement"
+			],
+			[
+				"Item",
+				"ItemType	class"
+			],
+			[
+				"pr",
+				"price	statement"
+			],
+			[
+				"read",
+				"readline  (function)"
+			],
+			[
+				"player",
+				"player_stat_summary_dto"
+			],
+			[
+				"summoner",
+				"summoner_entries"
+			],
+			[
+				"summoner_id",
+				"summoner_id"
+			],
+			[
+				"locali",
+				"localized_dto"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"time",
+				"timezone  (variable)"
+			],
+			[
+				"I",
+				"IOError	error"
+			],
+			[
+				"sunset",
+				"sunsetTime"
+			],
+			[
+				"weather",
+				"weather_data"
+			],
+			[
+				"code",
+				"code"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"render",
+				"render_template"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"fl",
+				"Flask"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world_project",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/templates"
+	],
+	"file_history":
+	[
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world/urls.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world_project/urls.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/templates/betterhello.html",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world/views.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world_project/settings.py",
+		"/Users/andydelso/Desktop/gothons.py",
+		"/Users/andydelso/Desktop/item.py",
+		"/Users/andydelso/.bashrc",
+		"/Users/andydelso/.zshrc",
+		"/Users/andydelso/PycharmProjects/thecollector/README.md",
+		"/Users/andydelso/PycharmProjects/thecollector/.gitignore",
+		"/Users/andydelso/PycharmProjects/project_euler/euler1.py",
+		"/Users/andydelso/PycharmProjects/skeleton/tests/NAME_tests.py",
+		"/Users/andydelso/PycharmProjects/skeleton/docs/README.txt",
+		"/Users/andydelso/PycharmProjects/skeleton/setup.py",
+		"/Users/andydelso/recreate_virtualenv.sh",
+		"/Users/andydelso/Desktop/diceStats.py",
+		"/Users/andydelso/Desktop/bookmarklet_change.js",
+		"/Users/andydelso/Desktop/python_scratch.py",
+		"/Users/andydelso/Downloads/--2014-11-09-- - --2014-11-12--  (1).csv",
+		"/Users/andydelso/qa-test-repos/queue-qa-tests/src/test/resources/webapp/settings/queue_settings/queue-unpause.feature",
+		"/Users/andydelso/qa-test-repos/queue-qa-tests/src/test/resources/webapp/settings/queue_settings/queue-unpause.feature.orig",
+		"/Users/andydelso/.hgrc",
+		"/Users/andydelso/Desktop/queue automation/queue-save-multiprofile.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-save-viral.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-save-manual.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-enable",
+		"/Users/andydelso/Desktop/queue automation/queue-sending.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-disable.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-unpause.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-pause.feature",
+		"/Users/andydelso/PycharmProjects/gherkinstats/.gitignore",
+		"/Users/andydelso/qa-tests/.hgrc",
+		"/Users/andydelso/PycharmProjects/loldash/examples/ex_game_req.json",
+		"/Users/andydelso/PycharmProjects/loldash/examples/ex_summoner_req.json",
+		"/Users/andydelso/PycharmProjects/loldash/examples/ex_stat_summ_req.json",
+		"/Users/andydelso/.bash_profile",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/flask-live-code/.gitignore",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/flask-live-code/app/app.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/flask--live-code/.gitignore",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/Python (Django).sublime-settings",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/andydelso/Desktop/Jira Rich Edit.v20140919_1.js",
+		"/Users/andydelso/Desktop/Jira Rich Edit.v20140916.js",
+		"/jira_table_edit.js",
+		"/Users/andydelso/Desktop/easter.py",
+		"/Users/andydelso/Desktop/helloworld.java",
+		"/Users/andydelso/Desktop/Easter.java",
+		"/Users/andydelso/Desktop/summit_times.txt",
+		"/Users/andydelso/Desktop/times.py",
+		"/Users/andydelso/PycharmProjects/loldash/.gitignore",
+		"/Users/andydelso/PycharmProjects/loldash/loldash/summoners/models.py",
+		"/Users/andydelso/Dropbox/jira_rich_edit.txt",
+		"/Users/andydelso/Dropbox/talk with dan.txt",
+		"/Users/andydelso/PycharmProjects/riotapp/.env",
+		"/Users/andydelso/PycharmProjects/riotapp/.gitignore",
+		"/Users/andydelso/Dropbox/Documents/dropbox_2fa_recovery.txt",
+		"/Users/andydelso/PycharmProjects/weatherapp/requirements.txt",
+		"/Users/andydelso/PycharmProjects/weatherapp/.gitignore",
+		"/Users/andydelso/PycharmProjects/website/templates/links.html",
+		"/Users/andydelso/PycharmProjects/website/templates/code.html",
+		"/Users/andydelso/PycharmProjects/website/templates/blog.html",
+		"/Users/andydelso/PycharmProjects/website/templates/layout.html",
+		"/Users/andydelso/PycharmProjects/website/templates/index.html",
+		"/Users/andydelso/PycharmProjects/website/app.py",
+		"/Users/andydelso/PycharmProjects/website/templates/macros.html",
+		"/Users/andydelso/PycharmProjects/website/requirements.txt",
+		"/Users/andydelso/PycharmProjects/website/templates/links.htl",
+		"/Users/andydelso/Documents/app.py",
+		"/Users/andydelso/Downloads/app.py",
+		"/Users/andydelso/Documents/GoCode/hello.go",
+		"/private/etc/hosts",
+		"/Users/andydelso/Dropbox/Work Backups/Jira_Drag_and_Drop.user.js",
+		"/Users/andydelso/Documents/code-snippets/calculator.py",
+		"/Users/andydelso/Dropbox/Work Backups/Jira_Rich_Edit.user.js",
+		"/Users/andydelso/Dropbox/eBooks/Programming/RealPython_20130905/RealPythonPart1v2-4/Real Python files/Course materials/Chapter 5/Assignment solutions/election.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"**2**",
+			"	",
+			"+",
+			"wait 5",
+			"5",
+			"\\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\\b",
+			".\\@.\\..",
+			"Ban User...Permissions\n",
+			"Delete...",
+			"	",
+			" ",
+			"textarea",
+			"editRawjiraInTable",
+			"]",
+			"each_stat_line['",
+			"['aggregatedStats']",
+			"eachStatLine",
+			"%21",
+			"%2c",
+			"%27",
+			"+",
+			"celsius",
+			"link",
+			"md",
+			"copyright"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "hello-world-project.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 593.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

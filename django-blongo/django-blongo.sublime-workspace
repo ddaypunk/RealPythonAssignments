@@ -1,0 +1,1361 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_collection	function"
+			],
+			[
+				"coll",
+				"collection_name	param"
+			],
+			[
+				"col",
+				"collections	statement"
+			],
+			[
+				"dat",
+				"databases	statement"
+			],
+			[
+				"data",
+				"database_names"
+			],
+			[
+				"databas",
+				"databases	statement"
+			],
+			[
+				"sp",
+				"span	Tag"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"TEML",
+				"TEMPLATE_DIRS"
+			],
+			[
+				"vi",
+				"views"
+			],
+			[
+				"n",
+				"now	function"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"cl",
+				"Close"
+			],
+			[
+				"conn",
+				"Connection"
+			],
+			[
+				"count",
+				"count_features	statement"
+			],
+			[
+				"count_",
+				"count_files	statement"
+			],
+			[
+				"search",
+				"search_string_3	statement"
+			],
+			[
+				"file",
+				"file_path	statement"
+			],
+			[
+				"write",
+				"writeline	statement"
+			],
+			[
+				"un",
+				"unique"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"render",
+				"render_to_response	import"
+			],
+			[
+				"Model",
+				"ModelForm	ModelForm"
+			],
+			[
+				"context",
+				"context_dict	statement"
+			],
+			[
+				"all",
+				"all_posts	statement"
+			],
+			[
+				"STAT",
+				"STATIC_URL"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"PRO",
+				"PROJECT_ROOT	statement"
+			],
+			[
+				"pa",
+				"path	module"
+			],
+			[
+				"TEMPL",
+				"TEMPLATE_DIRS"
+			],
+			[
+				"hello",
+				"hello_world"
+			],
+			[
+				"True",
+				"True	class"
+			],
+			[
+				"fib",
+				"fib_list	statement"
+			],
+			[
+				"app",
+				"append	function"
+			],
+			[
+				"sum",
+				"sum_of_possibles	statement"
+			],
+			[
+				"list",
+				"list_of_possibles	statement"
+			],
+			[
+				"in",
+				"inventory	statement"
+			],
+			[
+				"scene",
+				"scene_map	statement"
+			],
+			[
+				"sc",
+				"scene_map	statement"
+			],
+			[
+				"scne",
+				"scene_map"
+			],
+			[
+				"e",
+				"exit	function"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"c",
+				"choices	statement"
+			],
+			[
+				"Item",
+				"ItemType	class"
+			],
+			[
+				"pr",
+				"price	statement"
+			],
+			[
+				"read",
+				"readline  (function)"
+			],
+			[
+				"player",
+				"player_stat_summary_dto"
+			],
+			[
+				"summoner",
+				"summoner_entries"
+			],
+			[
+				"summoner_id",
+				"summoner_id"
+			],
+			[
+				"locali",
+				"localized_dto"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"time",
+				"timezone  (variable)"
+			],
+			[
+				"I",
+				"IOError	error"
+			],
+			[
+				"sunset",
+				"sunsetTime"
+			],
+			[
+				"weather",
+				"weather_data"
+			],
+			[
+				"code",
+				"code"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"fl",
+				"Flask"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "blongo_project/blongo_app/urls.py",
+			"settings":
+			{
+				"buffer_size": 158,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 902,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Accomplishments:\nSuccessfully integrated myself to both the core QA team and multiple project teams with little issue\nResearched and tested options for test case management (including travel)\nPositive driving force for improving QA team process\nSuccessfully launched of multiple projects with minimal defects since start of employment\nSuccessful handling of multiple projects with different release windows\nAssisted with implementing peer review process\nHelped mentor new testers and testers new to Sprout\n\n\nOpportunities:\nLearn how to effectively automate test cases in Cucumber and eventually lower level support (Java layer)\nLearn effective use of IntelliJ\nSolve the problem of projects like localization (reduce the time needed to test while remaining effective in our testing)\nContinue to mentor/senior QA through peer reviews and pair testing and grow in effectiveness\nGain proficiency in mobile testing tools and automation\nContinue to improve QA Team processes\nContinue to evolve the QA Team as business needs change\n\nGoals:\nBecome an effective Senior QA with a solid knowledge of automation (1 year or less)\nBecome fully proficient in Python and Django\nAttain a position as a junior python developer/engineer at SproutSocial (2 years)\nAlternately, attain position as a SET using the above skill-set, bridging the gap between QA and SET skill-sets\n\nThe above is not to say that I do not enjoy being QA. That is far from the truth, but I seem to have caught the coding bug and really enjoy it now.",
+			"settings":
+			{
+				"buffer_size": 1504,
+				"line_ending": "Unix",
+				"name": "Accomplishments:"
+			}
+		},
+		{
+			"file": "blongo_project/blongo_app/views.py",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blongo_project/blongo_project/settings.py",
+			"settings":
+			{
+				"buffer_size": 2393,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "django-blongo.sublime-project",
+			"settings":
+			{
+				"buffer_size": 271,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blongo_project/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 1527,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 26 files for \"djanog.template\" (regex)\n\n/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/blongo_project/blongo_app/views.py:\n    1  from django.http import HttpResponse\n    2: from djanog.template import Context, loader\n    3  \n    4  from blongo_app.models import Post\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 319,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/blongo_project",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/blongo_project/blongo_app",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/blongo_project/blongo_project",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/blongo_project/templates"
+	],
+	"file_history":
+	[
+		"/Users/andydelso/Desktop/sprout.ovpn",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/blongo_project/blongo_project/settings.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/blongo_project/blongo_app/models.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/blongo_project/blongo_project/urls.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/test.py",
+		"/Users/andydelso/Desktop/bookmarklet_change.js",
+		"/Users/andydelso/Desktop/scenariosearch.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-bloggy/bloggy_project/blog/tests.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-bloggy/bloggy_project/blog/migrations/0003_post_slug.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-bloggy/bloggy_project/templates/blog/index.html",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-bloggy/bloggy_project/templates/blog/base.html",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-bloggy/bloggy_project/templates/index.html",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world/urls.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world_project/urls.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/templates/betterhello.html",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world/views.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world_project/settings.py",
+		"/Users/andydelso/Desktop/gothons.py",
+		"/Users/andydelso/Desktop/item.py",
+		"/Users/andydelso/.bashrc",
+		"/Users/andydelso/.zshrc",
+		"/Users/andydelso/PycharmProjects/thecollector/README.md",
+		"/Users/andydelso/PycharmProjects/thecollector/.gitignore",
+		"/Users/andydelso/PycharmProjects/project_euler/euler1.py",
+		"/Users/andydelso/PycharmProjects/skeleton/tests/NAME_tests.py",
+		"/Users/andydelso/PycharmProjects/skeleton/docs/README.txt",
+		"/Users/andydelso/PycharmProjects/skeleton/setup.py",
+		"/Users/andydelso/recreate_virtualenv.sh",
+		"/Users/andydelso/Desktop/diceStats.py",
+		"/Users/andydelso/Desktop/python_scratch.py",
+		"/Users/andydelso/Downloads/--2014-11-09-- - --2014-11-12--  (1).csv",
+		"/Users/andydelso/qa-test-repos/queue-qa-tests/src/test/resources/webapp/settings/queue_settings/queue-unpause.feature",
+		"/Users/andydelso/qa-test-repos/queue-qa-tests/src/test/resources/webapp/settings/queue_settings/queue-unpause.feature.orig",
+		"/Users/andydelso/.hgrc",
+		"/Users/andydelso/Desktop/queue automation/queue-save-multiprofile.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-save-viral.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-save-manual.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-enable",
+		"/Users/andydelso/Desktop/queue automation/queue-sending.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-disable.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-unpause.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-pause.feature",
+		"/Users/andydelso/PycharmProjects/gherkinstats/.gitignore",
+		"/Users/andydelso/qa-tests/.hgrc",
+		"/Users/andydelso/PycharmProjects/loldash/examples/ex_game_req.json",
+		"/Users/andydelso/PycharmProjects/loldash/examples/ex_summoner_req.json",
+		"/Users/andydelso/PycharmProjects/loldash/examples/ex_stat_summ_req.json",
+		"/Users/andydelso/.bash_profile",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/flask-live-code/.gitignore",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/flask-live-code/app/app.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/flask--live-code/.gitignore",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/Python (Django).sublime-settings",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/andydelso/Desktop/Jira Rich Edit.v20140919_1.js",
+		"/Users/andydelso/Desktop/Jira Rich Edit.v20140916.js",
+		"/jira_table_edit.js",
+		"/Users/andydelso/Desktop/easter.py",
+		"/Users/andydelso/Desktop/helloworld.java",
+		"/Users/andydelso/Desktop/Easter.java",
+		"/Users/andydelso/Desktop/summit_times.txt",
+		"/Users/andydelso/Desktop/times.py",
+		"/Users/andydelso/PycharmProjects/loldash/.gitignore",
+		"/Users/andydelso/PycharmProjects/loldash/loldash/summoners/models.py",
+		"/Users/andydelso/Dropbox/jira_rich_edit.txt",
+		"/Users/andydelso/Dropbox/talk with dan.txt",
+		"/Users/andydelso/PycharmProjects/riotapp/.env",
+		"/Users/andydelso/PycharmProjects/riotapp/.gitignore",
+		"/Users/andydelso/Dropbox/Documents/dropbox_2fa_recovery.txt",
+		"/Users/andydelso/PycharmProjects/weatherapp/requirements.txt",
+		"/Users/andydelso/PycharmProjects/weatherapp/.gitignore",
+		"/Users/andydelso/PycharmProjects/website/templates/links.html",
+		"/Users/andydelso/PycharmProjects/website/templates/code.html",
+		"/Users/andydelso/PycharmProjects/website/templates/blog.html",
+		"/Users/andydelso/PycharmProjects/website/templates/layout.html",
+		"/Users/andydelso/PycharmProjects/website/templates/index.html",
+		"/Users/andydelso/PycharmProjects/website/app.py",
+		"/Users/andydelso/PycharmProjects/website/templates/macros.html",
+		"/Users/andydelso/PycharmProjects/website/requirements.txt",
+		"/Users/andydelso/PycharmProjects/website/templates/links.htl",
+		"/Users/andydelso/Documents/app.py",
+		"/Users/andydelso/Downloads/app.py",
+		"/Users/andydelso/Documents/GoCode/hello.go",
+		"/private/etc/hosts",
+		"/Users/andydelso/Dropbox/Work Backups/Jira_Drag_and_Drop.user.js",
+		"/Users/andydelso/Documents/code-snippets/calculator.py",
+		"/Users/andydelso/Dropbox/Work Backups/Jira_Rich_Edit.user.js",
+		"/Users/andydelso/Dropbox/eBooks/Programming/RealPython_20130905/RealPythonPart1v2-4/Real Python files/Course materials/Chapter 5/Assignment solutions/election.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\* ",
+			"* ",
+			"djanog.template",
+			"users",
+			"add",
+			"yeti",
+			"**2**",
+			"	",
+			"+",
+			"wait 5",
+			"5",
+			"\\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\\b",
+			".\\@.\\..",
+			"Ban User...Permissions\n",
+			"Delete...",
+			"	",
+			" ",
+			"textarea",
+			"editRawjiraInTable",
+			"]",
+			"each_stat_line['",
+			"['aggregatedStats']",
+			"eachStatLine",
+			"%21",
+			"%2c",
+			"%27",
+			"+",
+			"celsius",
+			"link",
+			"md",
+			"copyright"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "blongo_project/blongo_app/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								840,
+								850
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 2.0,
+						"translation.y": 65.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1504
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "Accomplishments:",
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 11.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "blongo_project/blongo_app/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "blongo_project/blongo_project/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2263,
+								2263
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "django-blongo.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "blongo_project/templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1527,
+								1527
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 335.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 319,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										211,
+										226
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "django-blongo.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 593.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
